@@ -49,14 +49,11 @@ here you can see the reviews I created during projects and later referenced them
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
 
-<img src="resou\images\5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
+<img src="resou/images/5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-<img src="resou\images\5.2_monthly_revenue_customers_3mo.png" alt="Customer Revenue Normalized" width="50%">
-
-resou\images\5.2_monthly_revenue_customers_3mo.png
-
+<img src="resou/images/5.2_monthly_revenue_customers_3mo.png" alt="Customer Revenue Normalized" width="50%">
 
 📊 **Key Findings:**  
 - Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.  
@@ -79,7 +76,7 @@ resou\images\5.2_monthly_revenue_customers_3mo.png
 **📈 Visualization:**
 
 
-<img src="resou\images\resou\images\visualqwe.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
+<img src="resou/images/resou/images/visualqwe.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
 
 📊 **Key Findings:**  
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.  
@@ -100,7 +97,7 @@ resou\images\5.2_monthly_revenue_customers_3mo.png
 
 **📈 Visualization:** 
 
-<img src="resou\images\brands.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
+<img src="resou/images/brands.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
 
 (p.s. There was a certain unexpected problem related to the fact that I didn't think that there wouldn't be 5 product categories for each of the best brands. But I decided to leave the code itself and its result (I no longer visualized 3 separate brands of the category, because it would not look ethnic:( )
 
